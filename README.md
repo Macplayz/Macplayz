@@ -40,13 +40,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Macplayz">
-    <img src="https://github-readme-stats.vercel.app/api?username=Macplayz&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Macplayz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Macplayz&theme=dark&hide_border=true" height="150" alt="Streak Stats" />
-  </a>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Macplayz&show_icons=true&theme=dark&hide_border=true&v=1)](https://github.com/Macplayz)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Macplayz&theme=dark&hide_border=true&v=1)](https://github.com/Macplayz)
+
 </div>
 
 <br/>
