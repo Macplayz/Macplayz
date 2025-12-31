@@ -1,4 +1,4 @@
-<p align="right">
+<p align="left">
   🔴 🟡 🟢
 </p>
 
@@ -53,10 +53,3 @@
 
 
 <br/>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Macplayz&label=Profile%20Views&color=0e1117&style=flat-square&label_color=0e1117"
-    alt="Profile Views"
-  />
-</p>
