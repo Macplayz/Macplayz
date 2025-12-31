@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  B.Tech IT Undergraduate focused on <b>Backend Engineering</b> and <b>Applied Machine Learning</b>.<br/>
+  B.Tech IT Undergraduate focused on <b>Full Stack Engineering</b> and <b>Applied Machine Learning</b>.<br/>
   Active <b>Open Source Contributor</b> eager to build scalable, community-driven software.
 </p>
 
