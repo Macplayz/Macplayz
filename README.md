@@ -33,8 +33,15 @@
 <br/>
 
 <div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=700&size=28&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=1000&height=70&lines=GitHub+Activity"
+    alt="GitHub Activity"
+  />
+</div>
+
+<div align="center">
   <a href="https://github.com/Macplayz">
-    <img src="https://github-readme-stats.vercel.app/api?username=Macplayz&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Macplayz&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/Macplayz">
