@@ -11,7 +11,7 @@
 
 <p align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #d0d0d0; font-size: 18px;">
   B.Tech IT Undergraduate focused on <b>Full Stack Engineering</b> and <b>Applied Machine Learning</b>.<br/>
-  Active <b>Open Source Contributor</b> eager to build scalable, community-driven software.
+  Active <b>Open Source Contributor</b> eager to build scalable, community driven software.
 </p>
 
 <br/>
@@ -44,10 +44,17 @@
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/neelaymachha">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
+
+  <a href="https://savee.com/neelaymac/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="45" alt="Savee" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.instagram.com/macneelay/">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45" alt="Instagram" />
   </a>
